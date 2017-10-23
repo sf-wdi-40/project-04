@@ -116,7 +116,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 * **BY THURSDAY MORNING, October 26** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
 
-* **Wednesday, November 1 and Thursday, November 2** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+* **Wednesday, November 1 and Thursday, November 2 at 3pm** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
 ---
 
@@ -133,7 +133,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 At the end of this project, you'll present your accomplishments in two ways:
 
-1. A formal presentation, either Wednesday or Thursday at 3:30 PM.
+1. A formal presentation, either Wednesday or Thursday at 3:00 PM.
 2. A science-fair style showcase, Thursday Nov. 2 at 12:30 PM.
 
 ###### What should I cover during my presentation?
