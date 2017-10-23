@@ -133,7 +133,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 At the end of this project, you'll present your accomplishments in two ways:
 
-1. A formal presentation, either Wednesday or Thursday at 3:00 PM.
+1. A formal presentation, either Wednesday or Thursday, Nov. 1 or 2 at 3:00 PM.
 2. A science-fair style showcase, Thursday Nov. 2 at 12:30 PM.
 
 ###### What should I cover during my presentation?
