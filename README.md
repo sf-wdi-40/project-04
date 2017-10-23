@@ -1,4 +1,4 @@
-# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project 3 - Final Project
+# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project 4 - Final Project
 
 **Read this entire document before writing a line of code.**
 
@@ -81,7 +81,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 **You should review the following with your instructional team BEFORE you start to code.**
 
 * **Scope:** What are you planning to build? What do you reasonably think you can implement in the time period?
-* **User Stories:** Who is your user? What features will your app have? Set up your project and user stories in <a href="https://trello.com" target="_blank">Trello</a>.
+* **User Stories:** Who is your user? What features will your app have? Set up your project and user stories using <a href="https://trello.com" target="_blank">Trello</a> or another system/tool that works for you.
 * **Wireframes:** Sketch out what your core pages will look like and how they will work. Consider making a *paper prototype* to demonstrate and/or test key user interactions.
 * **Data Models:** Draw out the models and any associations for your project in an entity relationship diagram (ERD).
 * **Milestones:** Divide your work into parts - the most essential features for your MVP, features that are important but not essential, and features that can be saved for a later iteration. Create 3-5 major milestones with dates outlining when you expect essential features will be done.
@@ -114,9 +114,9 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 ###### When is the project due?
 
-* **{{ENTER PROJECT PLANNING DELIVERABLES HERE}}** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
+* **BY THURSDAY MORNING, October 26** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
 
-* **{{ENTER PROJECT PRESENTATION AND DUE DATE HERE}}** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+* **Wednesday, November 1 and Thursday, November 2** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
 ---
 
@@ -131,45 +131,23 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 ## Presentation Guidelines
 
+At the end of this project, you'll present your accomplishments in two ways:
+
+1. A formal presentation, either Wednesday or Thursday at 3:30 PM.
+2. A science-fair style showcase, Thursday Nov. 2 at 12:30 PM.
+
 ###### What should I cover during my presentation?
 
-Project 3 presentations will start at **{{ENTER TIME HERE}}** on **{{ENTER DUE DATE HERE}}**. Each presentation should be **8 minutes or less** and cover the following:
+Each presentation should be **10 minutes or less** and cover the following:
 
 * What was your motivation to build this project?
 * Demo of your project's core functionality.
 * What is one feature you're particularly proud of? (show code)
 * Shout-outs for your fellow classmates!
 
----
+###### What should I prepare for the showcase?
 
-## Instructor Groups
-
-###### Who will be my assigned instructor / DIR for this project?
-
-You'll meet with your assigned instructor / DIR daily to guide you throughout the project. They will also be sending you feedback on the project afterwards.
-
-#### INSTRUCTOR
-
-* TBD
-* TBD
-* TBD
-* TBD
-
-
-#### INSTRUCTOR
-
-* TBD
-* TBD
-* TBD
-* TBD
-
-#### INSTRUCTOR
-
-* TBD
-* TBD
-* TBD
-* TBD
-
+You should have your app ready to demo on your computer, and a quick (2-3 minute) explanation of what your project is and what's interesting about it.
 
 ---
 
